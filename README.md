@@ -8,6 +8,7 @@ This project was created for a class assignment with some starter files and asse
 ### GIFs / Screenshot
 #### Fetching top tracks (iPhone XR)
 <img src="https://github.com/kylenguyen7/spotify-clone/blob/main/gifs/top-tracks.gif" alt="Fetching user's top Spotify tracks on an iPhone XR" width="300">
+<p>(I was on a Waitress kick.)</p>
 
 #### Fetching an album (iPhone XR)
 <img src="https://github.com/kylenguyen7/spotify-clone/blob/main/gifs/album.gif" alt="Fetching an album from Spotify on an iPhone XR" width="300">
