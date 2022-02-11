@@ -1,5 +1,7 @@
 # Spotify Clone
-A React Native clone for the music streaming app Spotify. Created for [CS 47](https://web.stanford.edu/class/cs47/) at Stanford.
+ [There's a newer version of this project!](https://github.com/kylenguyen7/spotify-clone-2.0)
+ 
+ A React Native clone for the music streaming app Spotify. Created for [CS 47](https://web.stanford.edu/class/cs47/) at Stanford.
 
 Interesting features: Uses Spotify API and authentication hook to fetch either your top tracks or a specified album. Data displayed using a FlatList.
 
